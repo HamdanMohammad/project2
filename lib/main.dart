@@ -12,6 +12,10 @@ import 'Screens/Welcome/welcome_screen.dart';
 
 //Hello from the other side :)
 
+//Hello it's me ..
+
+//there is such a diffrent between us
+
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
@@ -19,7 +23,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flutter_Demo',
+      title: 'Shopping Spree',
       theme: ThemeData(
         primaryColor: kPrimaryColor,
         scaffoldBackgroundColor: Colors.white,
